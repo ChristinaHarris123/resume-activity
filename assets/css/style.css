@@ -1,5 +1,86 @@
-/* remove this code and add your own! */
-.greeting {
-    color: green;
-    font-size: 30px;
-  }
+.career-profile {
+  color: blue;
+  vertical-align: middle;
+  font-size: 20px;
+  font-weight: normal;
+  margin-left: 20px;
+  margin-top: 50px;
+  text-align: center;
+
+}
+
+
+#description {
+  color: black;
+  font-size: medium;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+.experiences {
+  color: blue;
+  vertical-align: middle;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-top: 30px;
+}
+
+.job-description-1 {
+  color: black;
+  font-size: medium;
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+.job-description-2 {
+  color: black;
+  font-size: medium;
+  font-family: sans-serif;
+  font-weight: normal;
+ 
+}
+
+.location {
+  color: black;
+  font-size: medium;
+  font: weight 50px;
+}
+
+.paragraph {
+  font-size: 15px;
+  color: black;
+  font-weight:100;
+  padding-top: 10px;
+}
+
+
+.card {
+  background-color: lightslategray;
+  height: 100%;
+  width: 100%;
+  padding-top: 5%;
+  margin-top: 30px;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  width: 75%;
+  text-align: center;
+}
+
+img svg {
+  vertical-align: middle;
+}
+
+.info {
+  color: black;
+  font-size: 15px;
+}
+
+.socialmedia {
+  list-style: none;
+}
